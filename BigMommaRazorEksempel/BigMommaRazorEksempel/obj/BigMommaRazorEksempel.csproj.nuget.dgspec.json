@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {}
   },
   "projects": {
-    "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {
+    "\\\\Mac\\Home\\Desktop\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
         "projectName": "BigMommaRazorEksempel",
-        "projectPath": "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
-        "packagesPath": "C:\\Users\\Theis\\.nuget\\packages\\",
-        "outputPath": "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
+        "packagesPath": "C:\\Users\\hasse\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Theis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hasse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
