@@ -8,6 +8,7 @@
         private double _price;
 
         //properties
+        public int Id { get; set; }
         public string Name
         {
             get { return _name; }
