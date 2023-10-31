@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Theis\\source\\repos\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {}
+    "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Theis\\source\\repos\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {
+    "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Theis\\source\\repos\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
+        "projectUniqueName": "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
         "projectName": "BigMommaRazorEksempel",
-        "projectPath": "C:\\Users\\Theis\\source\\repos\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
+        "projectPath": "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel.csproj",
         "packagesPath": "C:\\Users\\Theis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Theis\\source\\repos\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\obj\\",
+        "outputPath": "C:\\Zealand\\3. Semester\\Hjælpelærer\\BigMommaEksempel\\BigMommaRazorEksempel\\BigMommaRazorEksempel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Theis\\AppData\\Roaming\\NuGet\\NuGet.Config",
